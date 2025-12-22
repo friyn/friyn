@@ -6,8 +6,8 @@
     <a href="https://github.com/friyn">
       <img src="https://img.shields.io/github/followers/friyn?label=Follow&style=social" alt="GitHub followers" />
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-      <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?label=Follow&style=social" alt="Twitter Follow" />
+    <a href="https://tiktok.com/">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCzKJu3k0BOhjak5p7nJ0VQQ?label=Follow&style=social" alt="Twitter Follow" />
     </a>
   </p>
 </div>
@@ -16,12 +16,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [QoutaID](https://github.com/QoutaID)
+- 🌱 I’m currently learning Hosting Thing
+- 📫 How to reach me: [friynbusiness@email.com](mailto:friynbusiness@email.com)
+- ⚡ Fun fact: I'm 17 YO
 
 ---
 
@@ -49,10 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friyn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=friyn&theme=radical" alt="Friyn's Streak" />
-</div>
