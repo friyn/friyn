@@ -14,16 +14,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on [QoutaID](https://github.com/QoutaID)
-- 🌱 I’m currently learning Hosting Thing
-- 📫 How to reach me: [friynbusiness@email.com](mailto:friynbusiness@email.com)
-- ⚡ Fun fact: I'm 17 YO
+- I’m currently working on [QoutaID](https://github.com/QoutaID)
+- I’m currently learning Hosting Thing
+- How to reach me: [friynbusiness@email.com](mailto:friynbusiness@email.com)
+- Fun fact: I'm 17 YO
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,11 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=friyn&show_icons=true&theme=radical&count_private=true" alt="Friyn's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friyn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
