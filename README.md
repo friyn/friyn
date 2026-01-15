@@ -4,10 +4,14 @@
 
   <p>
     <a href="https://github.com/friyn">
-      <img src="https://img.shields.io/github/followers/friyn?label=Follow&style=social" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/friyn?label=GitHub&style=social" alt="GitHub followers" />
     </a>
     <a href="https://www.youtube.com/@FriynMusic">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCzKJu3k0BOhjak5p7nJ0VQQ?label=Follow&style=social" alt="Twitter Follow" />
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCzKJu3k0BOhjak5p7nJ0VQQ?label=Subscribers&style=social" alt="YouTube Subscribers" />
+    </a>
+    </a>
+    <a href="https://www.youtube.com/@FriynMusic">
+      <img src="https://img.shields.io/youtube/channel/views/UCzKJu3k0BOhjak5p7nJ0VQQ?label=Views&style=social" alt="YouTub Views" />
     </a>
   </p>
 </div>
