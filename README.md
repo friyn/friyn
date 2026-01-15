@@ -6,7 +6,7 @@
     <a href="https://github.com/friyn">
       <img src="https://img.shields.io/github/followers/friyn?label=Follow&style=social" alt="GitHub followers" />
     </a>
-    <a href="https://tiktok.com/">
+    <a href="https://www.youtube.com/@FriynMusic">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCzKJu3k0BOhjak5p7nJ0VQQ?label=Follow&style=social" alt="Twitter Follow" />
     </a>
   </p>
